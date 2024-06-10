@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class ColletionExercicio1 {
+public class CollectionExercicio1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

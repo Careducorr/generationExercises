@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class ColletionSetExercicio4 {
+public class CollectionSetExercicio4 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

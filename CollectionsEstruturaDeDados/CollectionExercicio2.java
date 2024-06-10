@@ -3,7 +3,7 @@ package CollectionsEstruturaDeDados;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class ColletionExercicio2 {
+public class CollectionExercicio2 {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

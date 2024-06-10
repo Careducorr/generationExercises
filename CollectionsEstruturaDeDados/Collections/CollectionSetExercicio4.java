@@ -1,4 +1,4 @@
-package CollectionsEstruturaDeDados;
+package CollectionsEstruturaDeDados.Collections;
 
 import java.util.HashSet;
 import java.util.Scanner;
